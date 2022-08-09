@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 08 Agu 2022 pada 07.54
+-- Waktu pembuatan: 09 Agu 2022 pada 07.54
 -- Versi server: 10.4.21-MariaDB
 -- Versi PHP: 8.0.10
 
@@ -43,11 +43,11 @@ CREATE TABLE `siswa` (
 --
 
 INSERT INTO `siswa` (`nis`, `nama`, `jk`, `tanggallahir`, `tempatlahir`, `alamat`, `kelas`, `nilai`) VALUES
-('12002404', 'ADIT PRADITIA', 'L', '2005-03-09', 'SUBANG', 'PARUNG-SUBANG', '12 RPL 1', 98.6),
-('12002406', 'ADITTIA', 'L', '2004-10-29', 'INDRAMAYU', 'BANTARWARU', '12 RPL 1', 90),
-('12002429', 'ALDI RAHAYU HERMAWAN', 'L', '2004-04-24', 'CIKEYEP', 'CISALAK', '12 RPL 1', 87.4),
-('12002439', 'ALYA MONIKA ADE HERMAWAN', 'P', '2004-08-26', 'PAGADEN', 'PAGADEN SUBANG', '12 RPL 1', 89.7),
-('12002453', 'ANGGINA NOVIANTI', 'P', '2005-11-05', 'PASIRKAREMBI', 'SUBANG', '12 RPL 1', 91);
+('12002404', 'ADIT PRADITIA', 'L', '2005-03-09', 'SUBANG', 'PARUNG', '12 RPL 1', 88),
+('12002406', 'ADITTIA', 'L', '2004-10-29', 'INDRAMAYU', 'INDRAMAYU', '12 RPL 1', 83.7),
+('12002429', 'ALDI RAHAYU HERMAWAN', 'L', '2004-04-24', 'SUBANG', 'CISALAK', '12 RPL 1', 79.1),
+('12002439', 'ALYA MONIKA ADE HERMAWAN', 'P', '2004-08-26', 'PAGADEN', 'PAGADEN', '12 RPL 1', 81),
+('12002453', 'ANGGINA NOVIANTI', 'P', '2005-11-05', 'SUBANG', 'SUBANG', '12 RPL 1', 84.7);
 
 --
 -- Indexes for dumped tables
