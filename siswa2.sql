@@ -43,12 +43,11 @@ CREATE TABLE `siswa` (
 --
 
 INSERT INTO `siswa` (`nis`, `nama`, `jk`, `tanggallahir`, `tempatlahir`, `alamat`, `kelas`, `nilai`) VALUES
+('12002870', 'NINDYA DWI LESTARI', 'P', '2005-04-23', 'SUBANG', 'PASIRKAREMBI', '12 RPL 1', 97),
 ('12002404', 'ADIT PRADITIA', 'L', '2005-03-09', 'SUBANG', 'PARUNG', '12 RPL 1', 88),
 ('12002406', 'ADITTIA', 'L', '2004-10-29', 'INDRAMAYU', 'INDRAMAYU', '12 RPL 1', 83.7),
 ('12002429', 'ALDI RAHAYU HERMAWAN', 'L', '2004-04-24', 'SUBANG', 'CISALAK', '12 RPL 1', 79.1),
-('12002439', 'ALYA MONIKA ADE HERMAWAN', 'P', '2004-08-26', 'PAGADEN', 'PAGADEN', '12 RPL 1', 81),
-('12002453', 'ANGGINA NOVIANTI', 'P', '2005-11-05', 'SUBANG', 'SUBANG', '12 RPL 1', 84.7);
-
+('12002439', 'ALYA MONIKA ADE HERMAWAN', 'P', '2004-08-26', 'PAGADEN', 'PAGADEN', '12 RPL 1', 81);
 --
 -- Indexes for dumped tables
 --
